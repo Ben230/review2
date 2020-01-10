@@ -1,0 +1,22 @@
+{
+  "name": "review2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben230/review2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ben230/review2/issues"
+  },
+  "homepage": "https://github.com/Ben230/review2#readme",
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
